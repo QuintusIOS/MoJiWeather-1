@@ -53,6 +53,7 @@
 		E0C1A21A1C9660DB00C1F3E0 /* MoJiWeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MoJiWeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0C1A21E1C9660DB00C1F3E0 /* MoJiWeatherUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MoJiWeatherUITests.m; sourceTree = "<group>"; };
 		E0C1A2201C9660DB00C1F3E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E0C1A22F1C9667A400C1F3E0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 		E0C1A1EA1C9660DA00C1F3E0 = {
 			isa = PBXGroup;
 			children = (
+				E0C1A22F1C9667A400C1F3E0 /* README.md */,
 				E0C1A1F51C9660DA00C1F3E0 /* MoJiWeather */,
 				E0C1A2121C9660DB00C1F3E0 /* MoJiWeatherTests */,
 				E0C1A21D1C9660DB00C1F3E0 /* MoJiWeatherUITests */,
@@ -502,6 +504,7 @@
 				E0C1A2251C9660DB00C1F3E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E0C1A2261C9660DB00C1F3E0 /* Build configuration list for PBXNativeTarget "MoJiWeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -510,6 +513,7 @@
 				E0C1A2281C9660DB00C1F3E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E0C1A2291C9660DB00C1F3E0 /* Build configuration list for PBXNativeTarget "MoJiWeatherUITests" */ = {
 			isa = XCConfigurationList;
@@ -518,6 +522,7 @@
 				E0C1A22B1C9660DB00C1F3E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
