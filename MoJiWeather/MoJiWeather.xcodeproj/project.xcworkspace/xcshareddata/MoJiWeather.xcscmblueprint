@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DB12D2D94D573841733C6700B034F81A3BAB0052",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F76C727F75AB6BB6F708E247B8FD8E0044792334" : 0,
+    "DB12D2D94D573841733C6700B034F81A3BAB0052" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "39D3F841-7853-403B-B734-88B2751E5857",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F76C727F75AB6BB6F708E247B8FD8E0044792334" : "",
+    "DB12D2D94D573841733C6700B034F81A3BAB0052" : "MoJiWeather\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MoJiWeather",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MoJiWeather\/MoJiWeather.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WalterLiu\/MoJiWeather.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB12D2D94D573841733C6700B034F81A3BAB0052"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/WalterLiu\/BigTree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F76C727F75AB6BB6F708E247B8FD8E0044792334"
+    }
+  ]
+}
